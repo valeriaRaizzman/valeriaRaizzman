@@ -1,3 +1,8 @@
+<h1 align="center"><b>¡Hello World! I'm Valeria Raizman </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+
+
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💻 Tech Stack:
