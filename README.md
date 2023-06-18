@@ -2,7 +2,7 @@
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://gifsec.com/wp-content/uploads/2022/10/aesthetic-gif-2.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/3a/47/0e/3a470e3e8591ddbc4a6366b19435fd50.gif">
 </a>
 
 
