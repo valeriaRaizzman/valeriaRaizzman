@@ -1,5 +1,9 @@
 <h1 align="center"><b>¡Hello World! I'm Valeria Raizman </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h3 align="center"><i>A passionate frontend web developer</i></h3>
+
+
+
 
 
 
@@ -31,7 +35,23 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valeria&theme=dracula&hide_border=false)<br/>
 
 
+<div id="user-content-toc">
+  <ul align="center">
+  </ul>
+</div>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+  </ul>
+</div>
+
+
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valerymoncheri) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valeriaRaizman) 
+
+
 
