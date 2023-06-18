@@ -2,8 +2,9 @@
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/39/68/90/39689019d3019c7b87543a059944055a.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://gifsec.com/wp-content/uploads/2022/10/aesthetic-gif-2.gif">
 </a>
+
 
 # 💻 Tech Stack 
 <div style="display: flex; flex-direction: column;">
@@ -27,12 +28,13 @@
 </div>
 
 <ul>
-  <li>👩‍💻 Dedication: Web development.</li>
-  <li>✍ Complementary studies: Blockchain technology and cybersecurity.</li>
-  <li>🌱 I’m currently learning React and Vite.</li>
-  <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/valeriaraizman/">Resume</a>.</li>
-  <li>📫 How to reach me: valeriaraizzman@gmail.com</li>
-  <li>🤝 I’m available for freelancing.</li>
+  <li>👩‍💻 Dedication: Web development</li>
+  <li>👠 Web Designer</li>
+  <li>✍ Complementary studies: Blockchain technology and cybersecurity</li>
+  <li>🌱 I’m currently learning React and Vite</li>
+  <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/valeriaraizman/">Resume</a></li>
+  <li>📫 How to reach me: <i>valeriaraizzman@gmail.com</i></li>
+  
 </ul>
 
 # 📊 GitHub Stats:
