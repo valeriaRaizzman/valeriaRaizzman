@@ -1,5 +1,5 @@
 <h1 align="center"><b>¡Hello World! I'm Valeria Raizman </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/e9/64/f2/e964f2671e02aa0cf93e48b42347b68d.gif">
@@ -35,11 +35,6 @@
   <li>🤝 I’m available for freelancing.</li>
 </ul>
 
-
-
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=valeria&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valeria&theme=dracula&hide_border=false)<br/>
@@ -52,7 +47,7 @@
 </div>
 
 <br>
-
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
