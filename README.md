@@ -27,7 +27,7 @@
 <ul>
   <li>👩‍💻 Dedication: Web development</li>
   <li>👠 Web Designer</li>
-  <li>✍ Complementary studies: Blockchain technology and cybersecurity</li>
+  <li>✍ Complementary studies: Blockchain technology 🌏</li>
   <li>🌱 I’m currently learning React</li>
   <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/valeriaraizman/">Resume</a></li>
   <li>📫 How to reach me: <i>valeriaraizzman@gmail.com</i></li>
