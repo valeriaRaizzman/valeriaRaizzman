@@ -56,6 +56,21 @@
   </ul>
 </div>
 
+<br> 
+
+
+
+                                   Feel free to explore more of my works in my repositories!  #Opensource 🌟 
+
+![Web-Design](https://github.com/valeriaRaizzman/valeriaRaizzman/assets/132442225/577155e7-b18f-4c2c-b446-313fe7c7700d)
+
+[Slider.webm](https://github.com/valeriaRaizzman/valeriaRaizzman/assets/132442225/8b48846f-d093-42f5-8c41-fc3d25c948a0)
+
+
+
+
+
+
 
 
 
