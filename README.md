@@ -57,7 +57,7 @@
 
 
 
-                                   Feel free to explore more of my works in my repositories!  #Opensource 🌟 
+                     Feel free to explore more of my works in my repositories!  #Opensource 🌟 
 
 ![Web-Design](https://github.com/valeriaRaizzman/valeriaRaizzman/assets/132442225/577155e7-b18f-4c2c-b446-313fe7c7700d)
 
