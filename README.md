@@ -24,7 +24,7 @@
 <ul>
   <li>👩‍💻 Dedication: Web development</li>
   <li>👠 Web Designer</li>
-  <li>✍ Complementary studies: Master in blockchain technology 🌏</li>
+  <li>✍ Complementary studies: Master in Blockchain Technology 🌏</li>
   <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/valeriaraizman/">Resume</a></li>
   <li>📫 How to reach me: <i>valeriaraizzman@gmail.com</i></li>
 </ul>
@@ -55,7 +55,7 @@
 
 
 
-                     Feel free to explore more of my works in my repositories!  #Opensource 🌟 
+                                Feel free to explore more of my works in my repositories! 🌟 
 
 ![Web-Design](https://github.com/valeriaRaizzman/valeriaRaizzman/assets/132442225/577155e7-b18f-4c2c-b446-313fe7c7700d)
 
