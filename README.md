@@ -5,17 +5,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/3a/47/0e/3a470e3e8591ddbc4a6366b19435fd50.gif">
 </a>
 
-
 # 💻 Tech Stack 
 <div style="display: flex; flex-direction: column;">
  
   <p align="left">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
     <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware">
   </p>
@@ -23,11 +19,12 @@
 
 <ul>
   <li>👩‍💻 Dedication: Web development</li>
-  <li>👠 Web Designer</li>
   <li>✍ Complementary studies: Master in Blockchain Technology 🌏</li>
   <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/valeriaraizman/">Resume</a></li>
   <li>📫 How to reach me: <i>valeriaraizzman@gmail.com</i></li>
 </ul>
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valeria&theme=dracula&hide_border=false)<br/>
