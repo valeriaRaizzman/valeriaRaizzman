@@ -21,7 +21,7 @@
 
 <ul>
   <li>👩‍💻 Dedication: Web development</li>
-  <li>✍ Complementary studies: Master in Blockchain Technology 🌏</li>
+  <li>✍ Complementary studies: Master in Blockchain Technology</li>
   <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/valeriaraizman/">Resume</a></li>
   <li>📫 How to reach me: <i>valeriaraizzman@gmail.com</i></li>
 </ul>
